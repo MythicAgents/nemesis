@@ -5,6 +5,6 @@
   "exclude_documentation_c2": false,
   "exclude_agent_icons": false,
   "remote_images": {
-    "nemesis": "ghcr.io/mythicagents/nemesis:v0.0.0.1"
+    "nemesis": "ghcr.io/mythicagents/nemesis:v0.0.0.2"
   }
 }
