@@ -5,3 +5,4 @@ aiohttp==3.8.3
 psutil==5.9.4
 mythic-container==0.4.13
 requests
+gql
